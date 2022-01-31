@@ -1,1 +1,2 @@
-# pokedex
+# WORK IN PROGRESS
+# TRABAJO EN PROCESO
