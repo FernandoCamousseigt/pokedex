@@ -1,2 +1,2 @@
 def validacion_pokemon():
-    return "Introduce un nombre de Pokémon válido: "
+    return "Introduce un nombre valido: "
